@@ -9,5 +9,3 @@ MoveIntent {Action}
 MoveIntent {Action} {Value} degrees
 MoveIntent {Action} {Value} steps
 StopIntent end
-AMAZON.HelpIntent How do I control E V Three
-AMAZON.HelpIntent Help with E V Three
